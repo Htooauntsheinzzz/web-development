@@ -12,6 +12,7 @@ html {
 }
 
 body {
+
     background: #f2f2f2;
 }
 
@@ -141,12 +142,6 @@ header a:hover, footer a:hover {
 }
 
 
-.newArrival{
-    background: #ffffff;
-    padding: 50px 0;
-    border-top: 30px solid #B8704A;
-    border-bottom: 30px solid #B8704A;
-}
 
 
 section {
@@ -172,6 +167,27 @@ section .cards {
     padding: 0 10px;
     justify-content: space-between;
 }
+
+
+.services .shop_btn a{
+    color: rgb(255, 255, 255);
+    display: block;
+    text-transform: uppercase;
+    font-size: 18px;
+    margin: 0 10px;
+    padding: 10px 30px;
+    border-radius: 5px;
+    background: #B8704A;
+    border: 2px solid rgba(176, 109, 20, 0.4);
+    transition: 0.4s ease;
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.3);
+    text-decoration: none;
+}
+.services .shop_btn a:hover{
+    color: #B8704A;
+    background: rgb(255, 255, 255);
+}
+
 
 
 
@@ -214,6 +230,84 @@ section .cards .card {
 .about .row {
     padding: 0 10px;
 }
+
+/*
+slide  */
+
+
+.section3{
+    font-size: 35px;
+    text-align: center;
+    margin-top: 60px;
+
+}
+
+
+
+.slidershow{
+    width: 600px;
+    height: 400px;
+    overflow: hidden;
+    margin: 60px auto;
+    padding-top: 30px;
+}
+
+.navigation{
+    display: flex;
+    margin-top: -50px;
+    justify-content: center;
+    align-items: center;
+}
+.bar{
+    width: 15px;
+    height: 10px;
+    border: 2px solid #B8704A;
+    border-radius: 10px;
+    margin: 6px;
+    cursor: pointer;
+    transition: 0.4s;
+}
+.bar:hover{
+    background: #fff;
+}
+
+input[name="r"]{
+    position: absolute;
+    visibility: hidden;
+}
+
+.slides{
+    width: 500%;
+    height: 100%;
+    display: flex;
+}
+
+.slide{
+    width: 20%;
+    transition: 0.6s;
+}
+.slide img{
+    width: 100%;
+    height: 100%;
+}
+
+#r1:checked ~ .s1{
+    margin-left: 0;
+}
+#r2:checked ~ .s1{
+    margin-left: -20%;
+}
+#r3:checked ~ .s1{
+    margin-left: -40%;
+}
+#r4:checked ~ .s1{
+    margin-left: -60%;
+}
+#r5:checked ~ .s1{
+    margin-left: -80%;
+}
+
+/*slide show end*/
 
 .contact .row {
     margin: 60px 0 90px;
