@@ -1,0 +1,32 @@
+.cards .card .dot{
+    list-style-type: none;
+    line-height: 30px;
+
+}
+
+.cards .card .price{
+    list-style: none;
+    color: rgb(0, 169, 0);
+    margin: 12px 0;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+
+.shop-button{
+    font-size: 14px;
+    font-weight: bold;
+    padding: 10px 20px;
+    color: #fff;
+    background-color: #B8704A;
+    text-transform: uppercase;
+    text-decoration: none;
+    border-radius: 5px;
+    transition: all ease-in 0.25s;
+}
+
+.shop-button:hover{
+    color: #000;
+    background-color: #ffac80;
+}
+

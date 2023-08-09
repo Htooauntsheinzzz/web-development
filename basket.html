@@ -1,0 +1,158 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Camp Rider</title>
+  <link rel="stylesheet" href="css/style.css">
+  <link rel="stylesheet" href="css/basket.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.3.0/css/all.min.css">
+</head>
+<body>
+
+<header>
+  <nav class="navbar">
+    <h2 class="logo"><a href="#home">CAMP RIDER</a></h2>
+    <input type="checkbox" id="menu-toggler">
+    <label for="menu-toggler" id="hamburger-btn">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="white" width="24px" height="24px">
+        <path d="M0 0h24v24H0z" fill="none"/>
+        <path d="M3 18h18v-2H3v2zm0-5h18V11H3v2zm0-7v2h18V6H3z"/>
+      </svg>
+    </label>
+    <ul class="all-links">
+      <li><a href="index.html">Home</a></li>
+      <li><a href="equipment.html">Equipment</a></li>
+      <li><a href="#home">Furniture</a></li>
+      <li><a href="#home">Package</a></li>
+      <li><a href="basket.html">Basket</a></li>
+      <li><a href="#home">Reviews</a></li>
+      <li><a href="#home">Contact Us</a></li>
+    </ul>
+  </nav>
+</header>
+<section class="basket">
+  <br>
+  <a href="#checkout" class="chckout">Proceed to Checkout</a>
+  <div class="item1">
+    <tr>
+      <td>
+        <div class="img">
+          <img src="assets/backpack1.webp" alt="img"  class="item-img">
+        </div>
+      </td>
+      <td>
+        <p class="item-name">Gregory Zulu 45 Pack</p>
+      </td>
+      <td>
+        <p class="price">$260</p>
+      </td>
+      <td>
+        <div class="item-rm">
+          <a href="#">Remove</a>
+        </div>
+      </td>
+    </tr>
+  </div>
+
+  <div class="item1">
+    <tr>
+      <td>
+        <div class="img">
+          <img src="assets/stove2.webp" alt="img"  class="item-img">
+        </div>
+      </td>
+      <td>
+        <p class="item-name">Coleman Classic 2-Burner Propane Gas Camping Stove</p>
+      </td>
+      <td>
+        <p class="price">$67</p>
+      </td>
+      <td>
+        <div class="item-rm">
+          <a href="#">Remove</a>
+        </div>
+      </td>
+    </tr>
+  </div>
+
+  <div class="item1">
+    <tr>
+      <td>
+        <div class="img">
+          <img src="assets/lamp5.webp" alt="img"  class="item-img">
+        </div>
+      </td>
+      <td>
+        <p class="item-name">Ledlenser ML6 Lantern</p>
+      </td>
+      <td>
+        <p class="price">$90</p>
+      </td>
+      <td>
+        <div class="item-rm">
+          <a href="#">Remove</a>
+        </div>
+      </td>
+    </tr>
+  </div>
+
+  <div class="item1">
+    <tr>
+      <td>
+        <div class="img">
+          <img src="assets/tent2.jpg" alt="img"  class="item-img">
+        </div>
+      </td>
+      <td>
+        <p class="item-name">Marmot Limelight Camping Tent</p>
+      </td>
+      <td>
+        <p class="price">$299</p>
+      </td>
+      <td>
+        <div class="item-rm">
+          <a href="#">Remove</a>
+        </div>
+      </td>
+    </tr>
+  </div>
+</section>
+
+<section id="checkout">
+  <div class="payment">
+    <h3>Payment Details</h3>
+    <form action="">
+      <input type="text" name="name" id="name" placeholder="Name">
+      <br>
+      <input id="cardnumber" type="text" pattern="[0-9]*" inputmode="numeric" placeholder="Card Number">
+      <br>
+      <input id="expirationdate" type="text" pattern="[0-9]*" inputmode="numeric" placeholder="Expiration Date (MM/YY)">
+      <input id="securitycode" type="text" pattern="[0-9]*" inputmode="numeric" placeholder="Security Code">
+      <br>
+      <div class="orderbtn">
+        <input type="submit" name="order" id="order" value="Place Order">
+      </div>
+    </form>
+  </div>
+</section>
+
+
+
+
+<footer>
+  <div>
+        <span class="link">
+            <a href="#"><i class="fa-brands fa-square-instagram"></i></a>
+            <a href="#"><i class="fa-brands fa-square-facebook"></i></a>
+            <a href="#"><i class="fa-brands fa-linkedin"></i></a>
+            <a href="#"><i class="fa-brands fa-twitter"></i></a>
+            <a href="#"><i class="fa-brands fa-youtube"></i></a>
+            <a href="#"><i class="fa-brands fa-tiktok"></i></a>
+        </span>
+    <br>
+    <span class="copyRight">Copyright © 2023 All Rights Reserved</span>
+  </div>
+</footer>
+
+</body>
+</html>

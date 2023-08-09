@@ -1,0 +1,150 @@
+.item1{
+    display: flex;
+    width: 60%;
+    height: 200px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    box-shadow: 0 0 30px rgba(128, 128, 128, 0.4);
+    padding: 20px;
+}
+
+.item1 .img .item-img{
+    display: flex;
+    width: 180px;
+    height: 150px;
+    padding: 10px;
+}
+
+.item1 .item-name{
+    text-align: center;
+    font-size: 25px;
+    margin-top: auto;
+    margin-bottom: auto;
+    padding: 10px;
+}
+
+.item1 .price{
+    display: flex;
+    text-align: center;
+    font-size: 25px;
+    margin-top: auto;
+    margin-bottom: auto;
+    padding: 30px;
+    font-weight: bold;
+    color: rgb(0, 169, 0);
+}
+
+.item1 .item-rm a{
+    float: left;
+    text-decoration: none;
+    text-transform: uppercase;
+    color: red;
+    border: 1px solid red;
+    padding: 9px 30px;
+    margin-top: 45%;
+    border-radius: 10px;
+    transition: all 0.25s;
+}
+
+.item1 .item-rm a:hover{
+    transform: scale(1.125);
+    /* box-shadow: 0 0 30px rgba(255, 0, 0, 0.366); */
+    background-color: red;
+    color: white;
+    text-shadow: 0 0 20px white;
+    font-weight: bold;
+}
+
+.chckout{
+    text-decoration: none;
+    text-transform: uppercase;
+    font-size: 25px;
+    color: rgba(225, 124, 59, 0.82);
+    font-weight: bold;
+    border:3px dashed rgba(225, 124, 59, 0.71);
+    padding: 9px 30px;
+    border-radius: 10px;
+    transition: all 0.25s;
+}
+
+.chckout:hover{
+    border: 5px outset rgba(185, 94, 47, 0.82);
+    transform: scale(1.125);
+}
+
+#checkout h3{
+    font-size: 30px;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    color: green;
+}
+
+#checkout .payment{
+    width: 60%;
+    padding: 20px;
+    box-sizing: border-box;
+    box-shadow: 0 0 30px rgba(128, 128, 128, 0.4);
+    margin-bottom: 50px;
+}
+
+#checkout .payment #name{
+    width: 100%;
+    height: 40px;
+    font-size: 20px;
+    border: none;
+    outline: none;
+    padding: 10px;
+    margin: 10px auto;
+}
+
+#checkout .payment #cardnumber{
+    width: 100%;
+    height: 40px;
+    font-size: 20px;
+    border: none;
+    outline: none;
+    padding: 10px;
+    margin: 10px auto;
+}
+
+#checkout .payment #expirationdate{
+    display: inline;
+    width: 50%;
+    height: 40px;
+    font-size: 20px;
+    border: none;
+    outline: none;
+    padding: 10px;
+    margin: 10px auto;
+    border-left: 1px solid gray;
+}
+
+#checkout .payment #securitycode{
+    float: left;
+    width: 50%;
+    height: 40px;
+    font-size: 20px;
+    border: none;
+    outline: none;
+    padding: 10px;
+    margin: 10px auto
+}
+
+#checkout .payment .orderbtn #order{
+    padding: 9px 30px;
+    margin-top: 10px;
+    font-size: 18px;
+    text-transform: uppercase;
+    border: none;
+    border-radius: 10px;
+    background-color: rgba(185, 94, 47, 0.82);
+    outline:none;
+    color: white;
+    letter-spacing: 2px;
+    transition: all 0.25s;
+}
+
+#checkout .payment .orderbtn #order:hover{
+    transform: scale(1.125);
+    font-weight: bold;
+}
