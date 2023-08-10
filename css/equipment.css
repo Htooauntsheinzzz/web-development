@@ -30,3 +30,52 @@
     background-color: #ffac80;
 }
 
+
+
+.head{
+    margin-top: 70px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    background-color: #712e4d14;
+}
+
+.headingimg {
+    width: 75%;
+    height: 300px;
+    background-color:white;
+    padding: 20px;
+    border: 3px solid white;
+    border-radius: 20px;
+    margin-bottom: 30px;
+    margin-top: 30px;
+    box-shadow: 0 0 20px rgb(148, 148, 148);;
+ }
+.headingimg h2{
+    font-size: 45px;
+    padding: 10px;
+}
+
+.headingimg .imgtext {
+    width: 60%;
+    display: flex;
+    text-align: left;
+    font-size: 25px;
+}
+
+.headingimg .image {
+    float: right;
+}
+
+.headingimg .image img{
+    height: 200px;
+    width: 100%;
+    margin-top: -200px;
+}
+
+section p{
+    font-weight: bold;
+    padding: 30px;
+    font-size: 20px;
+}

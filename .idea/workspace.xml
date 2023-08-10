@@ -5,24 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="790f4bf0-46f8-4f15-b180-e1c2e6d03071" name="Changes" comment="commit to has">
-      <change afterPath="$PROJECT_DIR$/assets/backpack1.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/backpack3.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/backpack4.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/lamp2.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/lamp3.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/lamp5.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/sleepingBag1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/sleepingBag4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/sleepingBag5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/stove1.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/stove2.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/stove3.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/tent2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basket.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/basket.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/equipment.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/equipment.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/equipment.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/equipment.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/equipment.html" beforeDir="false" afterPath="$PROJECT_DIR$/equipment.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -49,46 +35,18 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "DefaultHtmlFileTemplate": "HTML File",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "main",
-    "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "C:/Autumn KBTC web/webpages/assets",
-    "list.type.of.created.stylesheet": "CSS",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "settings.editor.selected.configurable": "reference.settings.ide.settings.new.ui",
-    "vue.rearranger.settings.migration": "true"
-  }
-}]]></component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="power.mode.ii" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Autumn KBTC web\webpages\assets" />
     </key>
-  </component>
-  <component name="RunManager" selected="JavaScript Debug.basket.html">
-    <configuration name="basket.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/webpages/basket.html" useBuiltInWebServerPort="true">
-      <method v="2" />
-    </configuration>
-    <configuration name="equipment.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/webpages/equipment.html" useBuiltInWebServerPort="true">
-      <method v="2" />
-    </configuration>
-    <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/webpages/index.html" useBuiltInWebServerPort="true">
-      <method v="2" />
-    </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="JavaScript Debug.basket.html" />
-        <item itemvalue="JavaScript Debug.index.html" />
-        <item itemvalue="JavaScript Debug.equipment.html" />
-      </list>
-    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -105,6 +63,14 @@
       <workItem from="1691424761387" duration="3690000" />
       <workItem from="1691501560551" duration="9244000" />
       <workItem from="1691587210098" duration="9858000" />
+      <workItem from="1691642378538" duration="88000" />
+      <workItem from="1691642474091" duration="327000" />
+      <workItem from="1691642809375" duration="57000" />
+      <workItem from="1691642873986" duration="32000" />
+      <workItem from="1691642913346" duration="32000" />
+      <workItem from="1691642952986" duration="199000" />
+      <workItem from="1691653224916" duration="12000" />
+      <workItem from="1691653259447" duration="35000" />
     </task>
     <task id="LOCAL-00001" summary="commit">
       <option name="closed" value="true" />
@@ -141,5 +107,9 @@
     <MESSAGE value="commit" />
     <MESSAGE value="commit to has" />
     <option name="LAST_COMMIT_MESSAGE" value="commit to has" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
