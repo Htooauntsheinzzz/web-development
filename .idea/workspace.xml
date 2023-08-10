@@ -4,7 +4,27 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="790f4bf0-46f8-4f15-b180-e1c2e6d03071" name="Changes" comment="commit to has" />
+    <list default="true" id="790f4bf0-46f8-4f15-b180-e1c2e6d03071" name="Changes" comment="commit to has">
+      <change afterPath="$PROJECT_DIR$/Contact.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Review.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/review_person_g.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/reviewperson1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/reviewperson2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/reviewperson3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/reviewperson6.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/reviewperson6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/Contact.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/Review.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/basket.html" beforeDir="false" afterPath="$PROJECT_DIR$/Basket.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/basket.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/Basket.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/equipment.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/Equipment.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/furniture.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/Furniture.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/equipment.html" beforeDir="false" afterPath="$PROJECT_DIR$/Equipment.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/furniture.html" beforeDir="false" afterPath="$PROJECT_DIR$/Furniture.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -29,18 +49,54 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">
-    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="power.mode.ii" />
-    <property name="vue.rearranger.settings.migration" value="true" />
-  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Autumn KBTC web/webpages/assets&quot;,
+    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settings.ide.settings.new.ui&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Autumn KBTC web\webpages\assets" />
     </key>
+  </component>
+  <component name="RunManager" selected="JavaScript Debug.index.html">
+    <configuration name="Basket.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/webpages/Basket.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="Contact.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/webpages/Contact.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="Furniture.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/webpages/Furniture.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="Review.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/webpages/Review.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/webpages/index.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.index.html" />
+        <item itemvalue="JavaScript Debug.Contact.html" />
+        <item itemvalue="JavaScript Debug.Review.html" />
+        <item itemvalue="JavaScript Debug.Furniture.html" />
+        <item itemvalue="JavaScript Debug.Basket.html" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -57,14 +113,7 @@
       <workItem from="1691424761387" duration="3690000" />
       <workItem from="1691501560551" duration="9244000" />
       <workItem from="1691587210098" duration="9858000" />
-      <workItem from="1691642378538" duration="88000" />
-      <workItem from="1691642474091" duration="327000" />
-      <workItem from="1691642809375" duration="57000" />
-      <workItem from="1691642873986" duration="32000" />
-      <workItem from="1691642913346" duration="32000" />
-      <workItem from="1691642952986" duration="199000" />
-      <workItem from="1691653224916" duration="12000" />
-      <workItem from="1691653259447" duration="386000" />
+      <workItem from="1691683329793" duration="1644000" />
     </task>
     <task id="LOCAL-00001" summary="commit">
       <option name="closed" value="true" />
@@ -90,38 +139,16 @@
       <option name="project" value="LOCAL" />
       <updated>1691510866127</updated>
     </task>
-    <task id="LOCAL-00004" summary="commit to has">
-      <created>1691653395018</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1691653395018</updated>
-    </task>
-    <option name="localTasksCounter" value="5" />
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
-  </component>
-  <component name="Vcs.Log.Tabs.Properties">
-    <option name="TAB_STATES">
-      <map>
-        <entry key="MAIN">
-          <value>
-            <State />
-          </value>
-        </entry>
-      </map>
-    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="commit" />
     <MESSAGE value="commit to has" />
     <option name="LAST_COMMIT_MESSAGE" value="commit to has" />
-  </component>
-  <component name="XSLT-Support.FileAssociations.UIState">
-    <expand />
-    <select />
   </component>
 </project>

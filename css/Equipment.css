@@ -87,3 +87,58 @@ section p{
     padding: 30px;
     font-size: 20px;
 }
+
+
+@media screen and (max-width: 768px) {
+    body {
+        font-size: 14px;
+    }
+
+    .navbar {
+        flex-direction: column;
+        text-align: center;
+    }
+
+    .logo {
+        margin: 10px 0;
+    }
+    .all-links {
+        margin-top: 10px;
+    }
+    .head {
+      display: none;
+    }
+
+    .headingimg {
+        text-align: center;
+        padding-bottom: 20px;
+    }
+    .imgtext{
+        text-align: center;
+        padding-bottom: 20px;
+    }
+    .image img {
+        width: 100%;
+        height: auto;
+    }
+
+    .services {
+        padding: 20px;
+    }
+
+    .cards {
+        padding: 0;
+    }
+
+    .card {
+        padding: 10px;
+    }
+
+
+
+    footer {
+        text-align: center;
+        padding: 20px;
+    }
+}
+

@@ -351,10 +351,9 @@ carousell{
     border: 2px solid white;
     border-radius: 10px;
     background-color:  rgb(203, 101, 41);
-    box-shadow: #fff;
 }
 
-#indcaroutext{
+.indcaroutext{
     width: 1000px;
     height: 40px;
     text-transform: uppercase;

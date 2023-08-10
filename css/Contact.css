@@ -1,0 +1,116 @@
+.navbar .logo {
+    font-size: 20px;
+}
+
+
+.formbox{
+    width: 700px;
+    height: 500px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color:  #ffffff;
+    border-radius: 10px;
+    margin: 20px auto;
+    box-shadow: 0 0 10px gray;
+    margin-bottom: 100px;
+    margin-top: 100px;
+}
+
+.formbox form {
+    width: 100%;
+    padding: 20px;
+    text-align: center;
+    font-size: 22px;
+    line-height: 40px;
+    border: none;
+    /* color:white ; */
+}
+
+.formbox form h3{
+    color: #B8704A;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    margin-bottom: 20px;
+}
+
+.formbox input{
+    width: 470px;
+    height: 30px;
+    border: none;
+    outline: none;
+    background-color: rgb(243, 243, 243);
+    color: black;
+    font-size: 18px;
+    text-align: center;
+    margin: 15px auto;
+}
+
+.formbox textarea{
+    background-color: rgb(243, 243, 243);
+    border: none;
+    outline: none;
+    text-align: center;
+    font-size: 18px;
+    margin-top: 15px;
+}
+
+.rev-btn .btn_link{
+    color: rgb(255, 255, 255);
+    align-items: center;
+    display: block;
+    font-size: 18px;
+    margin: 0 10px;
+    padding: 10px 30px;
+    border-radius: 5px;
+    background: #B8704A;
+    border: 2px solid rgba(176, 109, 20, 0.4);
+    transition: 0.4s ease;
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.3);
+    text-decoration: none;
+}
+
+.rev-btn .btn_link:hover{
+    transform: scale(1.125);
+}
+
+.star-rate i{
+    padding: 20px 4px;
+    cursor: pointer;
+    font-size: 30px;
+    color: #B8704A;
+}
+
+.map{
+    display: flex;
+    width: 100%;
+    background-color:#804e33;
+    padding: 30px;
+}
+
+.map .textm{
+    width: 100%;
+    display: flex;
+}
+
+.map .text, h2{
+    font-size: 40px;
+    color: white;
+    text-shadow: 4px 4px 0 #B8704A;
+    padding: 9px 30px;
+}
+
+.map .gmap{
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    background: linear-gradient(#623c27, #a06e53);
+    border-radius: 20px;
+    padding: 20px;
+}
+
+.map .gmap iframe{
+    width: 100%;
+    border: none;
+    border-radius: 20px;
+}

@@ -19,13 +19,13 @@
             </svg>
         </label>
         <ul class="all-links">
-            <li><a href="#home">Home</a></li>
-            <li><a href="equipment.html">Equipment</a></li>
-            <li><a href="#home">Furniture</a></li>
+            <li><a href="index.html">Home</a></li>
+            <li><a href="Equipment.html">Equipment</a></li>
+            <li><a href="Furniture.html">Furniture</a></li>
             <li><a href="#home">Package</a></li>
-            <li><a href="basket.html">Basket</a></li>
-            <li><a href="#home">Reviews</a></li>
-            <li><a href="#home">Contact Us</a></li>
+            <li><a href="Basket.html">Basket</a></li>
+            <li><a href="Review.html">Reviews</a></li>
+            <li><a href="Contact.html">Contact Us</a></li>
         </ul>
     </nav>
 </header>
@@ -76,7 +76,7 @@
         </li>
     </ul>
     <div class="shop_btn" id="shop_btn">
-        <a href="equipment.html">Shop now</a>
+        <a href="Equipment.html">Shop now</a>
     </div>
 </section>
 
@@ -119,7 +119,8 @@
 </section>
 
 <section>
-    <p id="indcaroutext">Everything you need, All in one place.</p>
+    <h2>Take Advanture With Us</h2>
+    <p class="indcaroutext">Everything you need, All in one place.</p>
     <div class="carousell">
         <div class="slider-containerr">
             <div class="sliderr">
@@ -132,7 +133,7 @@
                 <img src="assets/slideshow1.jpg" alt="discount1" id="slide4">
             </div>
             <div class="slider-navv">
-                <a href="equipment.html">Browse Now</a>
+                <a href="Equipment.html">Browse Now</a>
             </div>
 
         </div>
@@ -144,7 +145,7 @@
         <h3>Plan your next camping trip with us🤟🏽</h3>
     </div>
     <div class="ytvid">
-        <iframe width="560" height="315" src="https://www.youtube.com/embed/y0wXQ5EdW_0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+        <embed width="560" height="315" src="https://www.youtube.com/embed/y0wXQ5EdW_0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen>
     </div>
 </section>
 
@@ -169,25 +170,5 @@
 </footer>
 
 
-
-
-
-<!--for slide show script-->
-<script>
-    let slideIndex = 0;
-    showSlides();
-    function showSlides(){
-        let i;
-        let slides = document.getElementsByClassName("slides");
-
-        for(i=0; i<slides.length; i++){
-            slides[i].style.display = "none";
-        } slideIndex ++;
-        if(slideIndex > slides.length){slideIndex = 1}
-        slides[slideIndex-1].style.display = "block";
-        setTimeout(showSlides, 4000);
-    }
-</script>
-<!--end for slide show script-->
 </body>
 </html>
