@@ -13,6 +13,14 @@
 }
 
 
+.cards .card{
+    transition: all 0.25s;
+}
+
+.cards .card:hover{
+    transform:scale(1.125);
+}
+
 .shop-button{
     font-size: 14px;
     font-weight: bold;
